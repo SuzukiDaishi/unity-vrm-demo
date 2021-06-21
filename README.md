@@ -13,3 +13,5 @@ UnityでVRMモデルを表示してみる
 
 ## 参考にしたサイト
 - https://vrm.dev/docs/univrm/import/univrm_import/
+- https://miyagame.net/vroid-unity-unity/
+- https://nekojara.city/unity2020-standard-assets
