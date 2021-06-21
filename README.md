@@ -5,8 +5,11 @@ UnityでVRMモデルを表示してみる
 
 ## やること
 - [x] VRMの表示
-- [ ] VRMのモーション操作
+- [x] VRMのモーション操作
 - [ ] OculusでのVRMの操作
+
+## 問題点
+- 動きを入れるとなんか浮く
 
 ## 参考にしたサイト
 - https://vrm.dev/docs/univrm/import/univrm_import/
